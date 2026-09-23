@@ -1,0 +1,9 @@
+{
+  "restaurante": {
+    "nome": "Meu Restaurante",
+    "telefone": "",
+    "endereco": ""
+  },
+  "cardapio": [],
+  "pedidos": []
+}
